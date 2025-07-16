@@ -31,11 +31,10 @@ Gosto de transformar ideias em interfaces funcionais e estou sempre buscando apr
 
 ### 📊 Minhas estatísticas no GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoConceica0&show_icons=true&theme=radical" alt="Estatísticas do GitHub do Bruno" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoConceica0&layout=compact&theme=radical&hide=python,powershell" alt="Linguagens mais usadas (sem Python)" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoConceica0&show_icons=true&theme=radical" alt="Estatísticas do GitHub do Bruno" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoConceica0&layout=compact&theme=radical&hide=python,powershell" alt="Linguagens mais usadas (sem Python)" />
+</div>
 
 ---
 
