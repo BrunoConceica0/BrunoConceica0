@@ -33,7 +33,8 @@ Gosto de transformar ideias em interfaces funcionais e estou sempre buscando apr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BrunoConceica0&show_icons=true&theme=radical" alt="Estatísticas do GitHub do Bruno" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoConceica0&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoConceica0&layout=compact&theme=radical&hide=python,powershell" alt="Linguagens mais usadas (sem Python)" />
 </p>
 
 ---
