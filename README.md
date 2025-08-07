@@ -1,16 +1,21 @@
-<h1 align="center">Olá, eu sou o Bruno 👨‍💻✨</h1>
+<h1 align="center">Bruno - Desenvolvedor Front-end 👨‍💻</h1>
 
 ---
 
 ### 👋 Seja bem-vindo(a) ao meu GitHub!
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por desenvolvimento front-end.  
+Desenvolvedor Front-end com foco em Vue.js, JavaScript, HTML e CSS. 
+Estudante de Análise e Desenvolvimento de Sistemas.
 Gosto de transformar ideias em interfaces funcionais e estou sempre buscando aprender mais e evoluir como desenvolvedor.
 
 - 🌱 Atualmente estou trabalhando em projetos pessoais e aprimorando minhas habilidades com JavaScript e Vue.js.
 - 🚀 Estou aprendendo C++ e Vue 3 para expandir meus conhecimentos.
 - 🎯 Meu objetivo é conseguir minha primeira oportunidade como desenvolvedor e, futuramente, me tornar um Dev Full Stack.
 
+
+- 🔧 Trabalhando com: Vue 3, TypeScript, Tailwind CSS, Vite
+- 🌱 Aprendendo: C++ e arquiteturas avançadas  
+- 🎯 Objetivo: Primeira oportunidade como desenvolvedor front-end
 ---
 
 ### 🛠️ Tecnologias que utilizo 💡🚀
